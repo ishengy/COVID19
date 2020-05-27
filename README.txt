@@ -27,3 +27,7 @@ Instructions:
 -Open the Juptyer Notebook file
 -Change the user variable to the path where the folder is located
 -Run the whole notebook
+
+OR
+
+Open shengassignment2.html just to view.
