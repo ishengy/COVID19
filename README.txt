@@ -23,7 +23,7 @@ wk5 (COVID19 Global Forecasting (Week 5))
 	https://www.kaggle.com/c/covid19-global-forecasting-week-5
 
 Instructions:
--unzip COVID19_study.zip
+-unzip COVID19_study.zip for ipynb file
 -Open the Juptyer Notebook file
 -Change the user variable to the path where the folder is located
 -Run the whole notebook
