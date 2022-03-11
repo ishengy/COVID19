@@ -26,5 +26,5 @@ Instructions:
 -unzip COVID19_study.zip for ipynb file
 -Open the Juptyer Notebook file
 -Change the user variable to the path where the folder is located
--Extract the wk5 training data
+-Extract the wk5 training data in the zipfile located in the wk5 folder
 -Run the whole notebook
